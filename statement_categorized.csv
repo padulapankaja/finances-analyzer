@@ -1,0 +1,29 @@
+Date,Name / Description,Expense/Income,Amount (EUR),Transaction vs category,Transaction,Category
+2023-12-30,belastingdienst,Expense,9.96,1. Belastingdienst - Taxes,belastingdienst,Taxes
+2023-12-30,tesco breda,Expense,17.53,2. Tesco Breda - Groceries,tesco breda,Groceries
+2023-12-30,monthly appartment rent,Expense,451.0,3. Monthly Appartment Rent - Housing,monthly appartment rent,Housing
+2023-12-30,vishandel sier amsterdam,Expense,12.46,4. Vishandel Sier Amsterdam - Food Delivery,vishandel sier amsterdam,Food and Drinks
+2023-12-29,selling paintings,Income,13.63,5. Selling Paintings - Art/Craft Supplies,selling paintings,Art/Craft Supplies
+2023-12-29,spotify ab by adyen,Expense,12.19,6. Spotify AB by Adyen - Entertainment,spotify ab by adyen,Entertainment
+2023-12-23,tk maxx amsterdam da,Expense,27.08,7. Tk Maxx Amsterdam DA - Clothing/Shopping,tk maxx amsterdam da,Clothing
+2023-12-22,consulting,Income,541.57,8. Consulting - Professional Services,consulting,Services
+2023-12-22,aidsfonds,Expense,10.7,9. Aidsfonds - Charity Donations,aidsfonds,Charity Donations
+2023-12-20,consulting,Income,2641.93,8. Consulting - Professional Services,consulting,Services
+2023-12-19,tls bv inz ov-chipkaart,Expense,18.9,10. TLS BV Inz Ov-Chipkaart - Transportation,tls bv inz ov-chipkaart,Transportation
+2023-12-18,etos amsterdam,Expense,17.67,11. Etos Amsterdam - Convenience Store,etos amsterdam,Convenience Store
+2023-12-18,tesco breda,Expense,8.809999999999999,2. Tesco Breda - Groceries,tesco breda,Groceries
+2023-12-18,beta boulders ams amsterdam,Expense,6.94,12. Beta Boulders Ams Amsterdam - Gym/Fitness,beta boulders ams amsterdam,Gym/Fitness
+2022-11-26,salary,Income,14.36,13. Salary - Personal Expenses,salary,Personal Expenses
+2022-11-26,bouldermuur bv amsterdam,Expense,19.27,14. Bouldermuur BV Amsterdam - Fitness Equipment,bouldermuur bv amsterdam,Fitness Equipment
+2022-11-26,birtat restaurant amsterdam,Expense,24.71,15. Birtat Restaurant Amsterdam - Dining Out,birtat restaurant amsterdam,Dining Out
+2022-11-25,tesco breda,Expense,17.35,2. Tesco Breda - Groceries,tesco breda,Groceries
+2022-11-24,freelancing,Income,2409.55,16. Freelancing - Professional Services,freelancing,Services
+2022-11-19,tikkie,Expense,20.76,17. Tikkie - Online Marketplace,tikkie,Online Marketplace
+2022-10-25,blogging,Income,4044.27,18. Blogging - Writing/Blogging Supplies,blogging,Writing/Blogging Supplies
+2022-10-24,taxi utrecht,Expense,18.9,19. Taxi Utrecht - Transportation,taxi utrecht,Transportation
+2022-10-23,tesco breda,Expense,27.54,2. Tesco Breda - Groceries,tesco breda,Groceries
+2022-10-22,apple services,Expense,41.25,20. Apple Services - Technology,apple services,Technology
+2022-10-21,tesco breda,Expense,22.8,2. Tesco Breda - Groceries,tesco breda,Groceries
+2022-01-16,amazon lux,Expense,24.11,21. Amazon Lux - Online Shopping,amazon lux,Online Shopping
+2022-01-15,classpass* monthly,Expense,30.08,22. Classpass* Monthly - Fitness Subscription,classpass* monthly,Fitness Subscription
+2022-01-14,audible uk adblco/pymt gbr,Expense,11.0,23. Audible UK AdblCo/Pymt Gbr - Audiobook Subscription,audible uk adblco/pymt gbr,Audiobook Subscription
